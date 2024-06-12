@@ -1,2 +1,1 @@
 # Voting_System
-abc
